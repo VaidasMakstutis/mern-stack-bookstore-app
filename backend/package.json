@@ -1,0 +1,25 @@
+{
+  "name": "mern-stack-bookstore-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "bookstore",
+    "mern",
+    "react",
+    "node",
+    "express"
+  ],
+  "author": "Vaidas Makštutis",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.0",
+    "nodemon": "^3.1.4"
+  }
+}
