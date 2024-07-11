@@ -41,6 +41,6 @@
 
 # ![image](https://github.com/VaidasMakstutis/mern-stack-bookstore-app/assets/86912050/1b85d3fc-99e5-4a13-90e1-6906be878bab)
 
-# ![image](https://github.com/VaidasMakstutis/mern-stack-bookstore-app/assets/86912050/5fba8847-8601-40cc-b6d2-17a2b4cd181a)
+![image](https://github.com/VaidasMakstutis/mern-stack-bookstore-app/assets/86912050/5fba8847-8601-40cc-b6d2-17a2b4cd181a)
 
 
