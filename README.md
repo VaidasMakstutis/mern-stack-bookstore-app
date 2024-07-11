@@ -2,32 +2,32 @@
 
 # Technology Stack:
 
-## MongoDB
+- MongoDB
 
-## Express.js
+- Express.js
 
-## React
+- React
 
-## Node.js
+- Node.js
 
-## Tailwind CSS
+- Tailwind CSS
 
 # Topics:
 
-## Backend CRUD operations
+- Backend CRUD operations
 
-## Backend routing using Express.js
+- Backend routing using Express.js
 
-## Handling CORS policy in Node.js and Express.js
+- Handling CORS policy in Node.js and Express.js
 
-## Working with MongoDB and mongoose
+- Working with MongoDB and mongoose
 
-## Frontend CRUD operations
+- Frontend CRUD operations
 
-## Setting up a single-page application with React
+- Setting up a single-page application with React
 
-## Utilizing React Router DOM for navigation
+- Utilizing React Router DOM for navigation
 
-## Building reusable components
+- Building reusable components
 
-## Enhancing user experience with beautiful alerts
+- Enhancing user experience with beautiful alerts
