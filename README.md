@@ -33,7 +33,7 @@
 - Enhancing user experience with beautiful alerts
 
 
-![image](https://github.com/VaidasMakstutis/mern-stack-bookstore-app/assets/86912050/eb4b0cea-9713-4a21-bd04-26f75f61221f)
+# ![image](https://github.com/VaidasMakstutis/mern-stack-bookstore-app/assets/86912050/eb4b0cea-9713-4a21-bd04-26f75f61221f)
 
 ![image](https://github.com/VaidasMakstutis/mern-stack-bookstore-app/assets/86912050/9651839d-4c8f-41b5-a254-74453590e045)
 
