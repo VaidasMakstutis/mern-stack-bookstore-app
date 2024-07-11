@@ -1,2 +1,5 @@
 # dependencies
 /backend/node_modules
+
+# Ignore the config.js file
+/backend/config.js
