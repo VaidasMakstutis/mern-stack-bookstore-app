@@ -1,4 +1,4 @@
-# MERN stack BooksStore App
+# MERN Stack BooksStore App
 
 # Technology Stack:
 
